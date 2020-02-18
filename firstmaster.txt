@@ -10,7 +10,11 @@
                2 Dir(s)  167,880,839,168 bytes fr
 
 
+<<<<<<< HEAD
 
 Modified in branch by shamili
 
+=======
+Shamili Robbi in feature1 branch.
+>>>>>>> feature1
 
