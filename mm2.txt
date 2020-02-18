@@ -1,6 +1,12 @@
  Volume in drive C has no label.
  Volume Serial Number is 3EE2-56FD
+<<<<<<< HEAD
   
+=======
+ 
+ changes made in git ui by shamili.
+ 
+>>>>>>> b78b85fa363bd8283218e56b7c6b4f5d75ff1f41
  Directory of C:\Users\shamili.robbi\Desktop\gitBlog
 
 18-02-2020  11:44    <DIR>          .
@@ -12,5 +18,5 @@
                2 Dir(s)  167,877,816,320 bytes free
 
 
-These are the changes added from the branch
+
 
