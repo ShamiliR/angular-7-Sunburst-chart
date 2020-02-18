@@ -1,6 +1,6 @@
  Volume in drive C has no label.
  Volume Serial Number is 3EE2-56FD
-
+  
  Directory of C:\Users\shamili.robbi\Desktop\gitBlog
 
 18-02-2020  11:44    <DIR>          .
@@ -10,3 +10,7 @@
 18-02-2020  11:38               414 secondBranch.txt
                3 File(s)            774 bytes
                2 Dir(s)  167,877,816,320 bytes free
+
+
+These are the changes added from the branch
+
